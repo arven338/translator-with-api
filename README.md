@@ -13,8 +13,8 @@ This project demonstrates a simple translator that uses the API to access a text
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/arven338/abstract-file-manager.git
-   cd abstract-file-manager
+   git clone https://github.com/arven338/translator-with-api.git
+   cd translator-with-api
 2. Install library:
    ```bash
    pip install -U translators
